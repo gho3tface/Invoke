@@ -1,0 +1,4 @@
+pyfiglet
+getpass
+socket
+argparse
